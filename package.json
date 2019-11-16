@@ -1,0 +1,23 @@
+{
+  "name": "fb-hackathon-sf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fb": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cholical/fb-hackathon-sf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cholical/fb-hackathon-sf/issues"
+  },
+  "homepage": "https://github.com/cholical/fb-hackathon-sf#readme"
+}
