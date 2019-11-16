@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>221995057468-ejp9d9427t83gal8ttskcr55qt5pcrdo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.221995057468-ejp9d9427t83gal8ttskcr55qt5pcrdo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAoR7LWS-lFxMIjNW-73j6XwbAFbwOR6GA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>221995057468</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wowcorp.Bundle</string>
+	<key>PROJECT_ID</key>
+	<string>ios-bundle</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ios-bundle.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<false/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:221995057468:ios:4fb2d016ba39b7fe</string>
+	<key>DATABASE_URL</key>
+	<string>https://ios-bundle.firebaseio.com</string>
+</dict>
+</plist>
